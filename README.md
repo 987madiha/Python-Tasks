@@ -1,5 +1,5 @@
 # Python-Tasks
-#Assignment-1
+# Assignment-1
 a=input('Enter the first number: ')
 b=input('Enter the second number: ')
 a=int(a)
